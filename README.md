@@ -2,7 +2,7 @@ This code is a simple currency converter that uses the Free Currency API to fetc
 
 Here's a step-by-step explanation of the code:
 
-1.Import the requests library.
+1.Import the requests library.\n
 2.Define the API key and base URL for the Free Currency API.
 3.Create a list of currencies to convert to.
 4.Define a function convert_currency(base) that takes a base currency as input.
